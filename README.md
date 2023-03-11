@@ -24,7 +24,7 @@ Work in pairs to complete the following table:
 | Infinity              |    /     |          |           |
 | -Infinity             |    /     |          |           |
 | “”                    |          |     /    |           |
-| “20”                  |    /     |          |           |
+| “20”                  |          |      /   |           |
 | “Twenty”              |          |     /    |           |
 | null                  |          |          |           |
 | undefinited           |          |          |           |
